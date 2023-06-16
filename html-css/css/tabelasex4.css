@@ -1,0 +1,17 @@
+h1, h2{
+	border: 1px solid;
+	background: #ffffff;
+	table-layout: fixed;
+	width: 100%;
+	border-collapse: collapse;
+	word-wrap: break-word;
+}
+
+table{
+	border: 1px solid;
+	background: #ffffff;
+	table-layout: fixed;
+	width: 100%;
+	border-collapse: collapse;
+	word-wrap: break-word;
+}
