@@ -46,7 +46,8 @@ São ramificações / versões paralelas
 - dev ()
 - DOD Definition of Done: critérios de aceite
 - versionamento 1.0.0
-
+- git checkout -b dev (criar branch)
+- git checkout main (mudar de branch)
 
 ### Merge
 Mescla de branchs
