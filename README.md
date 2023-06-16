@@ -46,3 +46,10 @@ São ramificações / versões paralelas
 - dev ()
 - DOD Definition of Done: critérios de aceite
 - versionamento 1.0.0
+<<<<<<< HEAD
+=======
+
+
+### Merge
+Mescla de branchs
+>>>>>>> main
