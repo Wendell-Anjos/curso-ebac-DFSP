@@ -23,10 +23,15 @@ Mac (brew): brew install git
 ## Criar conta no GitHub
 
 ## Clonar o projeto
+git clone: https://github.com/Wendell-Anjos/curso-ebac-DFSP.git
+
+## Clonar o projeto
 
 ## Commits
 Informação de alteração
 - após testado todo seu código
+- git add *
+- git commit -m "mensagem"
 
 ## GitFlow
 Fluxo do Git
