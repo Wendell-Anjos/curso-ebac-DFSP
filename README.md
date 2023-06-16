@@ -50,4 +50,13 @@ São ramificações / versões paralelas
 - git checkout main (mudar de branch)
 
 ### Merge
-Mescla de branchs
+- Mescla de branchs
+- Você pode ter que resolver conflitos manualmente
+
+- git merge main
+
+### Pull Requests
+-Mescla de branchs no repositório
+Permite o code review
+O repositório resolve os conflitos automaticamente
+
