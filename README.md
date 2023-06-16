@@ -60,3 +60,9 @@ São ramificações / versões paralelas
 Permite o code review
 O repositório resolve os conflitos automaticamente
 
+
+### Configurando o GitFlow
+- git flow init
+- git flow feature start {nome-da feature}
+
+
